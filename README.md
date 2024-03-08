@@ -20,6 +20,9 @@ This project explores three distinct paths for face recognition, employing vario
    - Data Augmentation: Flip, Rotate, Shrink/Enlarge, Brightness, Contrast, Saturation
    - Dataset Size: 17,639 (Combined)
 
+<img width="281" alt="image" src="https://github.com/SuyashSalvi/Face-Recognition-App/assets/40499151/b4b1cbc4-43a1-489b-811e-5984cf99a7e5">
+
+
 #### Data Augmentation Techniques
 
 - Flip
