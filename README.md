@@ -28,6 +28,8 @@ This project explores three distinct paths for face recognition, employing vario
 - Brightness
 - Contrast
 - Saturation
+<img width="801" alt="image" src="https://github.com/SuyashSalvi/Face-Recognition-App/assets/40499151/3274cc87-92b9-40a4-a551-fadfc89983e7">
+
 
 #### Dataset Sizes
 
